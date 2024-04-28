@@ -1,7 +1,7 @@
 # babybot❤
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Rose's+Repo!;A+simple+Group+modular+bot!;and+all+futures!)
 </p>
-<center><img src="https://telegra.ph/file/81e0270bb2977808e9a0c.jpg"></center>
+<center><img src="https://telegra.ph/file/0a817a05e82f28256a78c.jpg"></center>
 <br>
 <center><a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">

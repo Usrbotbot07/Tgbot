@@ -19,18 +19,18 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hi {}, my name is {}! If you have any questions on how to use me, read /help - and then head to @MarieSupport.
+Hi {}, my name is {}! If you have any questions on how to use me, read /help - and then head to @helpzzzz_help.
 
 I'm a group manager bot built in python3, using the python-telegram-bot library, and am fully opensource; \
-you can find what makes me tick [here](github.com/PaulSonOfLars/tgbot)!
+you can find what makes me tick [here](https://telegra.ph/file/81e0270bb2977808e9a0c.jpg)!
 
-Feel free to submit pull requests on github, or to contact my support group, @MarieSupport, with any bugs, questions \
+Feel free to submit pull requests on github, or to contact my support group, @babyrose_help, with any bugs, questions \
 or feature requests you might have :)
-I also have a news channel, @MarieNews for announcements on new features, downtime, etc.
+I also have a news channel, @helpzzzz_help for announcements on new features, downtime, etc.
 
 You can find the list of available commands with /help.
 
-If you're enjoying using me, and/or would like to help me survive in the wild, hit /donate to help fund/upgrade my VPS!
+If you're enjoying using me, and/or would like to help me survive in the wild, hit /start to help fund/upgrade my VPS!
 """
 
 HELP_STRINGS = """
@@ -55,7 +55,7 @@ DONATE_STRING = """Heya, glad to hear you want to donate!
 It took lots of work for my creator to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
 (see his bio!). He's just a poor student, so every little helps!
-There are two ways of paying him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
+There are two ways of paying him; [PayPal](nhi chahiye kuch bhi garib nhi hai), or [Monzo](nhi chahiye kuch bhi gareeb nhi hai )."""
 
 IMPORTED = {}
 MIGRATEABLE = []
